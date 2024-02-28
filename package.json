@@ -17,6 +17,7 @@
     "deploy": "npx hh deploy",
     "deploy:g": "npx hh deploy --network goerli",
     "deploy:s": "npx hh deploy --network sepolia",
-    "deploy:l": "npx hh deploy --network localhost"
+    "deploy:l": "npx hh deploy --network localhost",
+    "remixd": "remixd C:\\Users\\Admin\\AppData\\Roaming\\npm\\node_modules\\@remix-project\\remixd\\src\\bin\\remixd.js"
   }
 }
